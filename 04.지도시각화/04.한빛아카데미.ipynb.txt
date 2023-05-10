@@ -713,7 +713,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 19,
+   "execution_count": 20,
    "metadata": {},
    "outputs": [
     {
@@ -722,7 +722,7 @@
        "'김남현'"
       ]
      },
-     "execution_count": 19,
+     "execution_count": 20,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -739,7 +739,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 20,
+   "execution_count": 21,
    "metadata": {},
    "outputs": [
     {
@@ -748,7 +748,7 @@
        "'2023-01-02'"
       ]
      },
-     "execution_count": 20,
+     "execution_count": 21,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -761,7 +761,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
+   "execution_count": 22,
    "metadata": {},
    "outputs": [
     {
@@ -770,7 +770,7 @@
        "660"
       ]
      },
-     "execution_count": 21,
+     "execution_count": 22,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -783,7 +783,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 22,
+   "execution_count": 23,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -813,7 +813,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 23,
+   "execution_count": 24,
    "metadata": {},
    "outputs": [
     {
@@ -1098,7 +1098,7 @@
        "19                           김남현  2023-01-02   660  36,000  "
       ]
      },
-     "execution_count": 23,
+     "execution_count": 24,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1118,14 +1118,14 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 24,
+   "execution_count": 25,
    "metadata": {},
    "outputs": [
     {
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "100%|██████████| 23/23 [04:32<00:00, 11.85s/it]\n"
+      "100%|██████████| 23/23 [04:52<00:00, 12.71s/it]\n"
      ]
     }
    ],
@@ -1169,7 +1169,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 25,
+   "execution_count": 26,
    "metadata": {},
    "outputs": [
     {
@@ -1267,7 +1267,7 @@
        "452  2008-09-15   415  25,000  "
       ]
      },
-     "execution_count": 25,
+     "execution_count": 26,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1279,7 +1279,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 26,
+   "execution_count": 27,
    "metadata": {},
    "outputs": [],
    "source": [

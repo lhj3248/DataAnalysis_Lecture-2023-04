@@ -1,0 +1,39 @@
+{% extends "13.bootstrap.html" %}
+{% block subtitle %} 산점도 {% endblock%}
+{% block content %}
+<li style="text-align: right;">
+    <a href="http://localhost:5000/Home"><strong>Home</strong></a>
+    <a href="http://localhost:5000/scatter"><strong>산점도</strong></a>
+    <a href="http://localhost:5000/hotPlace"><strong>HOT PLACE</strong></a>
+    <a href="http://localhost:5000/interpark"><strong>InterPark</strong></a>
+    <a href="http://localhost:5000/progressbar"><strong>Progressbar</strong></a>
+</li>
+    <hr>
+    <form action="/scatter" method="post">
+        <table>
+            <tr>
+                <td>점의 갯수</td>
+                <td><input type="text" name="num"></td>
+            </tr>
+            <tr>
+                <td>평균</td>
+                <td><input type="text" name="mean"></td>
+            </tr>
+            <tr>
+                <td>표준편차</td>
+                <td><input type="text" name="std"></td>
+            </tr>
+            <tr>
+                <td>X의 최소값</td>
+                <td><input type="text" name="min"></td>
+            </tr>
+            <tr>
+                <td>Y의 최대값</td>
+                <td><input type="text" name="max"></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="확인"></td>
+            </tr>
+        </table>
+    </form>
+{% endblock %}
